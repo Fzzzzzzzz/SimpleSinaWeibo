@@ -1,0 +1,6 @@
+
+pod "WeiboSDK", :git => "https://github.com/sinaweibosdk/weibo_ios_sdk.git"
+pod "BTLabel"
+pod 'TYAttributedLabel', '~> 2.6.1'
+pod 'KxMenu'
+
