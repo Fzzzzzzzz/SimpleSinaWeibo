@@ -1,0 +1,6 @@
+framework module BTLabel {
+  umbrella header "BTLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

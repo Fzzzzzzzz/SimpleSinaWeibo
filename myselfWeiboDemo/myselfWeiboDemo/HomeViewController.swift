@@ -48,7 +48,6 @@ class HomeViewController: UIViewController, UITableViewDelegate, UITableViewData
         scrollView?.backgroundColor = UIColor.whiteColor()
         scrollView?.pagingEnabled = true
         scrollView?.bounces = false
-//        scrollView?.alwaysBounceVertical = false
         scrollView?.directionalLockEnabled = true
         scrollView?.showsVerticalScrollIndicator = false
         scrollView?.showsHorizontalScrollIndicator = false

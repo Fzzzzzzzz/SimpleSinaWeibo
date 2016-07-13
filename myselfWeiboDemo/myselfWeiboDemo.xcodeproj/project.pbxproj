@@ -12,6 +12,7 @@
 		070AE6871CCF3C2E0048F41B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 070AE6861CCF3C2E0048F41B /* Assets.xcassets */; };
 		070AE6951CCF3C2E0048F41B /* myselfWeiboDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 070AE6941CCF3C2E0048F41B /* myselfWeiboDemoUITests.swift */; };
 		070AE6A11CCF48550048F41B /* myselfWeibo-Bridging-Header.m in Sources */ = {isa = PBXBuildFile; fileRef = 070AE6A01CCF48550048F41B /* myselfWeibo-Bridging-Header.m */; };
+		071FA8A9BE5EE95B345C4280 /* Pods_myselfWeiboDemo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 034C076DD2CE1D099CBEEF48 /* Pods_myselfWeiboDemo.framework */; };
 		0737950D1D012DC800B774DB /* RefreshView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0737950C1D012DC800B774DB /* RefreshView.swift */; };
 		073795101D01433D00B774DB /* RefreshItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0737950F1D01433D00B774DB /* RefreshItem.swift */; };
 		073D11E41D13BBE100081C36 /* PictureViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 073D11E31D13BBE100081C36 /* PictureViewController.swift */; };
@@ -28,8 +29,6 @@
 		077FDE7D1CE1B00200322DB7 /* commentInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 077FDE7C1CE1B00200322DB7 /* commentInfoViewController.swift */; };
 		077FDE831CF2F04200322DB7 /* NewTweetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 077FDE821CF2F04200322DB7 /* NewTweetViewController.swift */; };
 		07DA07001CCFD27900CBF7D2 /* weiboInfoItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07DA06FF1CCFD27900CBF7D2 /* weiboInfoItem.swift */; };
-		2A5AE092254D80FBBE455139 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 446071B6A9C77F1046132BA6 /* libPods.a */; };
-		FCE5E8A9013D159BF0B3B3ED /* Pods_myselfWeiboDemo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A06D1F0065269D233E602F1A /* Pods_myselfWeiboDemo.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,7 +42,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0068FF49B086DE1FE4457640 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
+		034C076DD2CE1D099CBEEF48 /* Pods_myselfWeiboDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_myselfWeiboDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		070AE67C1CCF3C2E0048F41B /* myselfWeiboDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = myselfWeiboDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		070AE67F1CCF3C2E0048F41B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		070AE6811CCF3C2E0048F41B /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
@@ -70,11 +69,8 @@
 		077FDE7C1CE1B00200322DB7 /* commentInfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = commentInfoViewController.swift; sourceTree = "<group>"; };
 		077FDE821CF2F04200322DB7 /* NewTweetViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewTweetViewController.swift; sourceTree = "<group>"; };
 		07DA06FF1CCFD27900CBF7D2 /* weiboInfoItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = weiboInfoItem.swift; sourceTree = "<group>"; };
-		1EE11E65539057EBEB42CB8A /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
-		446071B6A9C77F1046132BA6 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		A06D1F0065269D233E602F1A /* Pods_myselfWeiboDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_myselfWeiboDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		E37EA0078C6D0AB2032207BB /* Pods-myselfWeiboDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-myselfWeiboDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-myselfWeiboDemo/Pods-myselfWeiboDemo.release.xcconfig"; sourceTree = "<group>"; };
-		E6869A0E15A6A14DE16884F5 /* Pods-myselfWeiboDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-myselfWeiboDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-myselfWeiboDemo/Pods-myselfWeiboDemo.debug.xcconfig"; sourceTree = "<group>"; };
+		5322D093B1E6A82E5C709223 /* Pods-myselfWeiboDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-myselfWeiboDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-myselfWeiboDemo/Pods-myselfWeiboDemo.debug.xcconfig"; sourceTree = "<group>"; };
+		BEA94207ED65EA637D5657C8 /* Pods-myselfWeiboDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-myselfWeiboDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-myselfWeiboDemo/Pods-myselfWeiboDemo.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,8 +78,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FCE5E8A9013D159BF0B3B3ED /* Pods_myselfWeiboDemo.framework in Frameworks */,
-				2A5AE092254D80FBBE455139 /* libPods.a in Frameworks */,
+				071FA8A9BE5EE95B345C4280 /* Pods_myselfWeiboDemo.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -105,8 +100,8 @@
 				070AE67E1CCF3C2E0048F41B /* myselfWeiboDemo */,
 				070AE6931CCF3C2E0048F41B /* myselfWeiboDemoUITests */,
 				070AE67D1CCF3C2E0048F41B /* Products */,
-				542DC33451196058D3D6F024 /* Pods */,
 				19B6FF8B9426D6BB9CE2DC1C /* Frameworks */,
+				C0246666E7BE377C0963E9D0 /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -199,19 +194,16 @@
 			isa = PBXGroup;
 			children = (
 				0771ADC71CF8230F008CC944 /* CoreData.framework */,
-				A06D1F0065269D233E602F1A /* Pods_myselfWeiboDemo.framework */,
-				446071B6A9C77F1046132BA6 /* libPods.a */,
+				034C076DD2CE1D099CBEEF48 /* Pods_myselfWeiboDemo.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		542DC33451196058D3D6F024 /* Pods */ = {
+		C0246666E7BE377C0963E9D0 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				E6869A0E15A6A14DE16884F5 /* Pods-myselfWeiboDemo.debug.xcconfig */,
-				E37EA0078C6D0AB2032207BB /* Pods-myselfWeiboDemo.release.xcconfig */,
-				1EE11E65539057EBEB42CB8A /* Pods.debug.xcconfig */,
-				0068FF49B086DE1FE4457640 /* Pods.release.xcconfig */,
+				5322D093B1E6A82E5C709223 /* Pods-myselfWeiboDemo.debug.xcconfig */,
+				BEA94207ED65EA637D5657C8 /* Pods-myselfWeiboDemo.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -223,12 +215,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 070AE6991CCF3C2E0048F41B /* Build configuration list for PBXNativeTarget "myselfWeiboDemo" */;
 			buildPhases = (
-				7325F346B6327AE31DB899E4 /* Check Pods Manifest.lock */,
+				FA334C8301A38B81ECC7986C /* [CP] Check Pods Manifest.lock */,
 				070AE6781CCF3C2E0048F41B /* Sources */,
 				070AE6791CCF3C2E0048F41B /* Frameworks */,
 				070AE67A1CCF3C2E0048F41B /* Resources */,
-				D9E948D53A95DDA36D824BEF /* Embed Pods Frameworks */,
-				A61DD7B925A0A5D38473071E /* Copy Pods Resources */,
+				4A8AFF8094F2A15CF3D65D0C /* [CP] Embed Pods Frameworks */,
+				E87379CBEB151F5936450DC7 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -317,49 +309,49 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		7325F346B6327AE31DB899E4 /* Check Pods Manifest.lock */ = {
+		4A8AFF8094F2A15CF3D65D0C /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "Check Pods Manifest.lock";
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-myselfWeiboDemo/Pods-myselfWeiboDemo-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E87379CBEB151F5936450DC7 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-myselfWeiboDemo/Pods-myselfWeiboDemo-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FA334C8301A38B81ECC7986C /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
-			showEnvVarsInLog = 0;
-		};
-		A61DD7B925A0A5D38473071E /* Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods/Pods-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		D9E948D53A95DDA36D824BEF /* Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods/Pods-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -493,7 +485,7 @@
 		};
 		070AE69A1CCF3C2E0048F41B /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1EE11E65539057EBEB42CB8A /* Pods.debug.xcconfig */;
+			baseConfigurationReference = 5322D093B1E6A82E5C709223 /* Pods-myselfWeiboDemo.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-2";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
@@ -509,7 +501,7 @@
 		};
 		070AE69B1CCF3C2E0048F41B /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0068FF49B086DE1FE4457640 /* Pods.release.xcconfig */;
+			baseConfigurationReference = BEA94207ED65EA637D5657C8 /* Pods-myselfWeiboDemo.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-2";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";

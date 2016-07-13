@@ -14,7 +14,7 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods.xcscheme</key>
+		<key>Pods-myselfWeiboDemo.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -27,22 +27,22 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>54C0D8D70FA87009102BD7B34A82F7F7</key>
+		<key>0C0A93140333D8E9076079C8333EE9FB</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>8F06F49D64E04DCD9683D916034330CE</key>
+		<key>31B179C1593813E105A7CF644224551D</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>921D55E6DAFC72B4851ADA7BCF550A87</key>
+		<key>6820846829ED020BAD5FAE69FEDDC861</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>E1B593754900BED869BB0009D7E4AEC1</key>
+		<key>845102AB81B201CB1C0BA07364A8B4AD</key>
 		<dict>
 			<key>primary</key>
 			<true/>

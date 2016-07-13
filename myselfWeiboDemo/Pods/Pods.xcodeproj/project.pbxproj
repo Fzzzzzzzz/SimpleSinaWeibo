@@ -1,2344 +1,977 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>archiveVersion</key>
-	<string>1</string>
-	<key>classes</key>
-	<dict/>
-	<key>objectVersion</key>
-	<string>46</string>
-	<key>objects</key>
-	<dict>
-		<key>00120535C68C2F282B33C2E3BEAF562B</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>libTYAttributedLabel.a</string>
-			<key>path</key>
-			<string>libTYAttributedLabel.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>003BEAA452F64AD73620510A8693A2F3</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>67D241207539FD1C28E665594F114DBB</string>
-				<string>6C8D509604C5676646F4D1B4F9C1902B</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>018DA724C636DCB6720E4300F7B827BE</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>TYAttributedLabel.h</string>
-			<key>path</key>
-			<string>TYAttributedLabelDemo/TYAttributedLabel/TYAttributedLabel.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>01AF738B046433EFBF3C70F0AA14CC87</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>A14C8797A71A841DCB61CCEF8DC20740</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>02695BE45F68884355796D12E6990A6C</key>
-		<dict>
-			<key>fileRef</key>
-			<string>326218A1FAB4E8C12BA3CBDA9BCC17AC</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>037C0CA694176A3C0915F62C9D20B3E6</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>B3D1D13E0C6553800746CB8FD61CF946</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Targets Support Files</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0381B998292438AD2722BA5E3C10258A</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>E45798CE71C47FECB3B4E81F3B3F5461</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>04FB0AE9C9BC539568AF27EC7960B1B7</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>KxMenu-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>05FEED9034E9EB35F20560DCCFB1C56A</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>WBSDKRelationshipButton.h</string>
-			<key>path</key>
-			<string>libWeiboSDK/WBSDKRelationshipButton.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>08221CD7B746EB1B6F34DE5B6985E557</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D210E7F6B3CEF11A57C733E40FFED00A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>08D46FF23223A44A71589F25103A1226</key>
-		<dict>
-			<key>fileRef</key>
-			<string>04FB0AE9C9BC539568AF27EC7960B1B7</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>095C1C4086ABEE6A460991B469248011</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>792FF86A270A9B7D9C859D8E1AA517E8</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/BTLabel/BTLabel-prefix.pch</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>9.3</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PRIVATE_HEADERS_FOLDER_PATH</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string></string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>0A6052175CE11ABAE6A0CDB423F9D01B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BTLabel.m</string>
-			<key>path</key>
-			<string>Pod/Classes/BTLabel.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0F6452F543BD73ED792B697FAD7672A0</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>TYTextContainer+Extended.m</string>
-			<key>path</key>
-			<string>TYAttributedLabelDemo/TYAttributedLabel/TYTextContainer+Extended.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>10834806BD7B412BC24F347361FA2C8E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Pods-acknowledgements.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>15A222FEA637704E5C888C229FAEE0FB</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>WBSDKBasicButton.h</string>
-			<key>path</key>
-			<string>libWeiboSDK/WBSDKBasicButton.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>17093F64B285A7843B00FD96BFB3A7C5</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>TYDrawStorage.m</string>
-			<key>path</key>
-			<string>TYAttributedLabelDemo/TYAttributedLabel/TYDrawStorage.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>18340F12838DEE43507667CC74401EB1</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>6E7E5AF37923BFA48D6994B9BFC6535F</string>
-				<string>C3B7BDF5CE5CB8F095FE12DA55D9A9BB</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>iOS</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1AA6A4F63611439A18BC5AE9BE978637</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.plug-in</string>
-			<key>name</key>
-			<string>WeiboSDK.bundle</string>
-			<key>path</key>
-			<string>libWeiboSDK/WeiboSDK.bundle</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1BD4ADAB6901CD98726ACABCDC62C46E</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6E7E5AF37923BFA48D6994B9BFC6535F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>1E7BB6ADEDF9B7925EFEA617E531220D</key>
-		<dict>
-			<key>fileRef</key>
-			<string>0A6052175CE11ABAE6A0CDB423F9D01B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>1EDC94925BDD3B8F6C7F5CA947FA6DC1</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>NSMutableAttributedString+TY.m</string>
-			<key>path</key>
-			<string>TYAttributedLabelDemo/TYAttributedLabel/NSMutableAttributedString+TY.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1FAE5D1060A898AED036073EDA703761</key>
-		<dict>
-			<key>fileRef</key>
-			<string>1EDC94925BDD3B8F6C7F5CA947FA6DC1</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>2033A1B5E12607A69FFF6B18FF5CFB50</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>NSMutableAttributedString+TY.h</string>
-			<key>path</key>
-			<string>TYAttributedLabelDemo/TYAttributedLabel/NSMutableAttributedString+TY.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2135BD6178FC98F9AF09F3E35A211DB9</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>1AA6A4F63611439A18BC5AE9BE978637</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Resources</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>272643F56613CA0D336AE3DBF19DC404</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Pods-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>273514ADA1278A9FA89261245D4B05A0</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>F51C224B5C7C08BDE9B1C75843C75021</string>
-				<string>40DF182B253A2F0D57948764D11DC05F</string>
-				<string>D6784171FD19C3AD45B113BD611AA3D0</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Support Files</string>
-			<key>path</key>
-			<string>../Target Support Files/TYAttributedLabel</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2794118915762EA69F1EFE9F0B404D5D</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>TYLinkTextStorage.m</string>
-			<key>path</key>
-			<string>TYAttributedLabelDemo/TYAttributedLabel/TYLinkTextStorage.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>29849028BB8B1C9F85989E5B4A987905</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>8B618EC60D1E9FCF343039044E1E0120</string>
-				<string>0A6052175CE11ABAE6A0CDB423F9D01B</string>
-				<string>D7311B84F8746D4EA70071352BCEE2AC</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>BTLabel</string>
-			<key>path</key>
-			<string>BTLabel</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2B389FAB51F6EEA43F72CA7BDC8E8E28</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES</string>
-				<key>CLANG_WARN_UNREACHABLE_CODE</key>
-				<string>YES</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>9.3</string>
-				<key>ONLY_ACTIVE_ARCH</key>
-				<string>YES</string>
-				<key>STRIP_INSTALLED_PRODUCT</key>
-				<string>NO</string>
-				<key>SYMROOT</key>
-				<string>${SRCROOT}/../build</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>2D8E8EC45A3A1A1D94AE762CB5028504</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>2B389FAB51F6EEA43F72CA7BDC8E8E28</string>
-				<string>5A0C6FE968931D888F00C9EC18DDF5BC</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>2E97CAB76406D7A1C1E4B21728CACC08</key>
-		<dict>
-			<key>fileRef</key>
-			<string>A42768388B61B834244A1126E35A0467</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>326218A1FAB4E8C12BA3CBDA9BCC17AC</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>TYViewStorage.h</string>
-			<key>path</key>
-			<string>TYAttributedLabelDemo/TYAttributedLabel/TYViewStorage.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>36256B47C7903EE56A86A29879409988</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E0D6F87FDA862C5A4C41285598855B07</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>36A027B7D24826056BB28F2208D4836B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>0F6452F543BD73ED792B697FAD7672A0</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>37DB56D75062CC75FCB0966E1C6E8A8E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>path</key>
-			<string>Pods-acknowledgements.markdown</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>3A4F771978DEF11A5025F57E275AFC13</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>KxMenu.m</string>
-			<key>path</key>
-			<string>Source/KxMenu.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>3D5964AA004AC9421277AEA8EDD50345</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>C665FA437EBA2D56180D2D3E1144FD89</string>
-				<string>1E7BB6ADEDF9B7925EFEA617E531220D</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>4071FF07792EE664AD1C4EEF2055FC38</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>EA98D7DBC6506769577CE9053963E317</string>
-				<string>8AA9F8D6FE7EFBFA70077961C7A96672</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>40DF182B253A2F0D57948764D11DC05F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>TYAttributedLabel-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>414FBF2B8D8196C56858D183EE992F75</key>
-		<dict>
-			<key>fileRef</key>
-			<string>2033A1B5E12607A69FFF6B18FF5CFB50</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>433CD3331B6C3787F473C941B61FC68F</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>18340F12838DEE43507667CC74401EB1</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>44A5C9FF84168786A06B968E2DABC4EA</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>TYTextContainer.h</string>
-			<key>path</key>
-			<string>TYAttributedLabelDemo/TYAttributedLabel/TYTextContainer.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4D00595C344F27C8E18FA091A8B1DD6D</key>
-		<dict>
-			<key>fileRef</key>
-			<string>272643F56613CA0D336AE3DBF19DC404</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>4E0F6C4A58D592B1E639EEAA0B639ED8</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>D41D8CD98F00B204E9800998ECF8427E</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>8F06F49D64E04DCD9683D916034330CE</string>
-			<key>remoteInfo</key>
-			<string>KxMenu</string>
-		</dict>
-		<key>4E762F23EC34ED4A6FF3312D84E33A40</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods.debug.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4E770D1C1A8ACB3B529A84ED2AF714D3</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>08D46FF23223A44A71589F25103A1226</string>
-				<string>86854E827E79182ADC0A1CEE901E6F8D</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>4F942D3F5D7DDA29BE7C7C9AB02A8348</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>98C98CDFB3F20F2925F6CD1F141BB14F</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>9.3</string>
-				<key>MACH_O_TYPE</key>
-				<string>staticlib</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>53ADE6BC148536B7AD9B1BB354B577B9</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>TYImageCache.m</string>
-			<key>path</key>
-			<string>TYAttributedLabelDemo/TYAttributedLabel/TYImageCache.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>54C0D8D70FA87009102BD7B34A82F7F7</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>7F574F0A83BB495EE5F53BE0EB2A060E</string>
-			<key>buildPhases</key>
-			<array>
-				<string>EFB27A4426E253BB58EE2F9843254985</string>
-				<string>95C97796FF7CF0B5689719214059C0E9</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>B7E3641C8DEE7818FA502EF2F948517A</string>
-				<string>833026CCC0744AAC2070EAEEBEFA535F</string>
-				<string>BBACFB63464BBBA00A52E1339A309C9B</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods</string>
-			<key>productName</key>
-			<string>Pods</string>
-			<key>productReference</key>
-			<string>9C1B1953A214510798A6716155FC2BB5</string>
-			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
-		</dict>
-		<key>55E62D61D6911866223F3603E7A1B1D9</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>7188984E7CB9745B598B6BBF4D6793D5</string>
-				<string>04FB0AE9C9BC539568AF27EC7960B1B7</string>
-				<string>8FC5787D03D7909AE276416FDB3547AD</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Support Files</string>
-			<key>path</key>
-			<string>../Target Support Files/KxMenu</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5768F7DE3EAD01F48532E3081DC7D92B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>WBHttpRequest+WeiboToken.h</string>
-			<key>path</key>
-			<string>libWeiboSDK/WBHttpRequest+WeiboToken.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5874A7E1D7AAB143FD9B0FFC87D07E20</key>
-		<dict>
-			<key>fileRef</key>
-			<string>A3E8666341F154DD8FD3CD016B5179BF</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>593A39CF60E60369A3DD6F16D4B264C5</key>
-		<dict>
-			<key>fileRef</key>
-			<string>7019D960AC441EF4DDEC7C68395CF843</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>5A0C6FE968931D888F00C9EC18DDF5BC</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES</string>
-				<key>CLANG_WARN_UNREACHABLE_CODE</key>
-				<string>YES</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>ENABLE_NS_ASSERTIONS</key>
-				<string>NO</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>RELEASE=1</string>
-				</array>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>9.3</string>
-				<key>STRIP_INSTALLED_PRODUCT</key>
-				<string>NO</string>
-				<key>SYMROOT</key>
-				<string>${SRCROOT}/../build</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>5DE5E620869E9242965273E8E402C34B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>44A5C9FF84168786A06B968E2DABC4EA</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>5E44B861BB07BE296FCD3019A3ED1155</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>WBHttpRequest+WeiboUser.h</string>
-			<key>path</key>
-			<string>libWeiboSDK/WBHttpRequest+WeiboUser.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5F316C43205BFCCEFAF7AD95F24D4EDB</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>414FBF2B8D8196C56858D183EE992F75</string>
-				<string>F5394FDF71D11AB29F88799129EBA611</string>
-				<string>BD94D382277E392AC63E61BE6BAF9BC2</string>
-				<string>F49CDBB7B65212E0F85A71050F34C8D8</string>
-				<string>36256B47C7903EE56A86A29879409988</string>
-				<string>FFFE1412815492222C5374B29E5E0DD4</string>
-				<string>5DE5E620869E9242965273E8E402C34B</string>
-				<string>5874A7E1D7AAB143FD9B0FFC87D07E20</string>
-				<string>2E97CAB76406D7A1C1E4B21728CACC08</string>
-				<string>02695BE45F68884355796D12E6990A6C</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>67D241207539FD1C28E665594F114DBB</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6E7E5AF37923BFA48D6994B9BFC6535F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>6911BECA35E7518D864239B7E898EEF3</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-frameworks.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>69CB1A7EA136EC388C0A52B84B9E3D09</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>TYViewStorage.m</string>
-			<key>path</key>
-			<string>TYAttributedLabelDemo/TYAttributedLabel/TYViewStorage.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6C8D509604C5676646F4D1B4F9C1902B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>C3B7BDF5CE5CB8F095FE12DA55D9A9BB</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>6E7E5AF37923BFA48D6994B9BFC6535F</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>Foundation.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/Foundation.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>6EAF97EDB77EDB617645F2F44ECFB234</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>WBSDKCommentButton.h</string>
-			<key>path</key>
-			<string>libWeiboSDK/WBSDKCommentButton.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7019D960AC441EF4DDEC7C68395CF843</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>TYImageStorage.m</string>
-			<key>path</key>
-			<string>TYAttributedLabelDemo/TYAttributedLabel/TYImageStorage.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7188984E7CB9745B598B6BBF4D6793D5</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>KxMenu.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7494C3ED8D150A8E23A8EED319E5C90F</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>A72DB48DFF2A50272B1E482ED9810450</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>75044250606A7860AE701BF7D8A426A8</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>792FF86A270A9B7D9C859D8E1AA517E8</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/BTLabel/BTLabel-prefix.pch</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>9.3</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PRIVATE_HEADERS_FOLDER_PATH</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string></string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>75EC807C16D9C1FE4B7D72B25709FE64</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>29849028BB8B1C9F85989E5B4A987905</string>
-				<string>8B284A3A56BED051B750F9F4124EB3D7</string>
-				<string>D8ECAFB458FDB79B81527493C9DA484D</string>
-				<string>8FE8D907A6F5733FEB37C2C81931DE25</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>78C6EF97B2631A4C4795B9ACF5AD2B11</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BTLabel-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>792FF86A270A9B7D9C859D8E1AA517E8</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>BTLabel.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7BA3153FC9F3A3B6E98E08E2021F7E8B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>2794118915762EA69F1EFE9F0B404D5D</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>7DB346D0F39D3F0E887471402A8071AB</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>BA6428E9F66FD5A23C0A2E06ED26CD2F</string>
-				<string>433CD3331B6C3787F473C941B61FC68F</string>
-				<string>75EC807C16D9C1FE4B7D72B25709FE64</string>
-				<string>FA8337C2A835DAE2296F1CD6965ED3BE</string>
-				<string>037C0CA694176A3C0915F62C9D20B3E6</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7F574F0A83BB495EE5F53BE0EB2A060E</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>E783A9F13F1FA6F62BF189BF16842798</string>
-				<string>4F942D3F5D7DDA29BE7C7C9AB02A8348</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>81D5352EF661971D7D1BDEDE66555AFD</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>libKxMenu.a</string>
-			<key>path</key>
-			<string>libKxMenu.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>833026CCC0744AAC2070EAEEBEFA535F</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>name</key>
-			<string>KxMenu</string>
-			<key>target</key>
-			<string>8F06F49D64E04DCD9683D916034330CE</string>
-			<key>targetProxy</key>
-			<string>4E0F6C4A58D592B1E639EEAA0B639ED8</string>
-		</dict>
-		<key>86854E827E79182ADC0A1CEE901E6F8D</key>
-		<dict>
-			<key>fileRef</key>
-			<string>3A4F771978DEF11A5025F57E275AFC13</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>COMPILER_FLAGS</key>
-				<string>-DOS_OBJECT_USE_OBJC=0</string>
-			</dict>
-		</dict>
-		<key>868F5BDD93C4412EFC9FEB23F7A0C2E1</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>992338D3263D95D4B96D2B33D719D13A</string>
-				<string>C186DCB603FC44D692733165F80A682E</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>89E5371340C406C92FAAF6EAFEE7FCDC</key>
-		<dict>
-			<key>fileRef</key>
-			<string>53ADE6BC148536B7AD9B1BB354B577B9</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>8AA9F8D6FE7EFBFA70077961C7A96672</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>F51C224B5C7C08BDE9B1C75843C75021</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/TYAttributedLabel/TYAttributedLabel-prefix.pch</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>9.3</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PRIVATE_HEADERS_FOLDER_PATH</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string></string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>8ABB4C4310CB15954343D17A91978269</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>TYDrawStorage.h</string>
-			<key>path</key>
-			<string>TYAttributedLabelDemo/TYAttributedLabel/TYDrawStorage.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>8B284A3A56BED051B750F9F4124EB3D7</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>AFDC74A3286FD12F10BF58519DCA0B2F</string>
-				<string>3A4F771978DEF11A5025F57E275AFC13</string>
-				<string>55E62D61D6911866223F3603E7A1B1D9</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>KxMenu</string>
-			<key>path</key>
-			<string>KxMenu</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>8B618EC60D1E9FCF343039044E1E0120</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BTLabel.h</string>
-			<key>path</key>
-			<string>Pod/Classes/BTLabel.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>8E0322BBB0EF5DAE07C05B564C6353FA</key>
-		<dict>
-			<key>fileRef</key>
-			<string>FD00B98785976D2CF4C3128F2AF16F7E</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>8F06F49D64E04DCD9683D916034330CE</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>868F5BDD93C4412EFC9FEB23F7A0C2E1</string>
-			<key>buildPhases</key>
-			<array>
-				<string>4E770D1C1A8ACB3B529A84ED2AF714D3</string>
-				<string>003BEAA452F64AD73620510A8693A2F3</string>
-				<string>C88FAF3B4D73847D7B4CE1B8090C578E</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>KxMenu</string>
-			<key>productName</key>
-			<string>KxMenu</string>
-			<key>productReference</key>
-			<string>81D5352EF661971D7D1BDEDE66555AFD</string>
-			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
-		</dict>
-		<key>8FC5787D03D7909AE276416FDB3547AD</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>KxMenu-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>8FE8D907A6F5733FEB37C2C81931DE25</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>D0C9CB3B74110F1EDE3C9CF51689E5AB</string>
-				<string>D68D4C2AA48DFB470A20C466CA2D1143</string>
-				<string>ABA4FE0526205CF442C48BC8B80B9804</string>
-				<string>5768F7DE3EAD01F48532E3081DC7D92B</string>
-				<string>5E44B861BB07BE296FCD3019A3ED1155</string>
-				<string>15A222FEA637704E5C888C229FAEE0FB</string>
-				<string>6EAF97EDB77EDB617645F2F44ECFB234</string>
-				<string>05FEED9034E9EB35F20560DCCFB1C56A</string>
-				<string>A09260B2E8FD04E9E19E3F59F647120F</string>
-				<string>C86A659F216D33EE3FD49548022EC1BC</string>
-				<string>E5031F187BB13D78B1CCB37431604691</string>
-				<string>AEC889FC5BF9296FB41FE192E8B42618</string>
-				<string>2135BD6178FC98F9AF09F3E35A211DB9</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>WeiboSDK</string>
-			<key>path</key>
-			<string>WeiboSDK</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>921D55E6DAFC72B4851ADA7BCF550A87</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>4071FF07792EE664AD1C4EEF2055FC38</string>
-			<key>buildPhases</key>
-			<array>
-				<string>A26897DCFCCC7EDA26EF239A44570226</string>
-				<string>01AF738B046433EFBF3C70F0AA14CC87</string>
-				<string>5F316C43205BFCCEFAF7AD95F24D4EDB</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>TYAttributedLabel</string>
-			<key>productName</key>
-			<string>TYAttributedLabel</string>
-			<key>productReference</key>
-			<string>00120535C68C2F282B33C2E3BEAF562B</string>
-			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
-		</dict>
-		<key>95C97796FF7CF0B5689719214059C0E9</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>1BD4ADAB6901CD98726ACABCDC62C46E</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>98C98CDFB3F20F2925F6CD1F141BB14F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods.release.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>992338D3263D95D4B96D2B33D719D13A</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>7188984E7CB9745B598B6BBF4D6793D5</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/KxMenu/KxMenu-prefix.pch</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>9.3</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PRIVATE_HEADERS_FOLDER_PATH</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string></string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>9C1B1953A214510798A6716155FC2BB5</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>libPods.a</string>
-			<key>path</key>
-			<string>libPods.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>A09260B2E8FD04E9E19E3F59F647120F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>WeiboSDK.h</string>
-			<key>path</key>
-			<string>libWeiboSDK/WeiboSDK.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A14C8797A71A841DCB61CCEF8DC20740</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6E7E5AF37923BFA48D6994B9BFC6535F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>A1A36D34413696BE466E2CA0AFF194DA</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-resources.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A1CB0DF078782ADB6B31283B4B3C0A77</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BTLabel-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A26897DCFCCC7EDA26EF239A44570226</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>1FAE5D1060A898AED036073EDA703761</string>
-				<string>F723195F4A9283DFB4F1542711C59F83</string>
-				<string>FBD00608C8BA248542BC8E36007869F1</string>
-				<string>E3E793DC7CC5F491A2C76B19E6088F42</string>
-				<string>89E5371340C406C92FAAF6EAFEE7FCDC</string>
-				<string>593A39CF60E60369A3DD6F16D4B264C5</string>
-				<string>7BA3153FC9F3A3B6E98E08E2021F7E8B</string>
-				<string>36A027B7D24826056BB28F2208D4836B</string>
-				<string>08221CD7B746EB1B6F34DE5B6985E557</string>
-				<string>8E0322BBB0EF5DAE07C05B564C6353FA</string>
-				<string>D8F649542846968261F595E52FBA0DDE</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>A3E8666341F154DD8FD3CD016B5179BF</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>TYTextStorage.h</string>
-			<key>path</key>
-			<string>TYAttributedLabelDemo/TYAttributedLabel/TYTextStorage.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A42768388B61B834244A1126E35A0467</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>TYTextStorageProtocol.h</string>
-			<key>path</key>
-			<string>TYAttributedLabelDemo/TYAttributedLabel/TYTextStorageProtocol.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A72DB48DFF2A50272B1E482ED9810450</key>
-		<dict>
-			<key>fileRef</key>
-			<string>8B618EC60D1E9FCF343039044E1E0120</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>A74D7AD9998E460051251F259B47EE96</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>libBTLabel.a</string>
-			<key>path</key>
-			<string>libBTLabel.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>ABA4FE0526205CF442C48BC8B80B9804</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>WBHttpRequest+WeiboShare.h</string>
-			<key>path</key>
-			<string>libWeiboSDK/WBHttpRequest+WeiboShare.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>AEC889FC5BF9296FB41FE192E8B42618</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>F99787F8FC1377C508CC4B4999757824</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>AFDC74A3286FD12F10BF58519DCA0B2F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>KxMenu.h</string>
-			<key>path</key>
-			<string>Source/KxMenu.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B3D1D13E0C6553800746CB8FD61CF946</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>37DB56D75062CC75FCB0966E1C6E8A8E</string>
-				<string>10834806BD7B412BC24F347361FA2C8E</string>
-				<string>272643F56613CA0D336AE3DBF19DC404</string>
-				<string>6911BECA35E7518D864239B7E898EEF3</string>
-				<string>A1A36D34413696BE466E2CA0AFF194DA</string>
-				<string>4E762F23EC34ED4A6FF3312D84E33A40</string>
-				<string>98C98CDFB3F20F2925F6CD1F141BB14F</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods</string>
-			<key>path</key>
-			<string>Target Support Files/Pods</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B50B098ACA1226707F6C781AE6B64163</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>TYAttributedLabel.m</string>
-			<key>path</key>
-			<string>TYAttributedLabelDemo/TYAttributedLabel/TYAttributedLabel.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B7E3641C8DEE7818FA502EF2F948517A</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>name</key>
-			<string>BTLabel</string>
-			<key>target</key>
-			<string>E1B593754900BED869BB0009D7E4AEC1</string>
-			<key>targetProxy</key>
-			<string>BF962FC68B879432BEFA4B8D5E2F7820</string>
-		</dict>
-		<key>BA6428E9F66FD5A23C0A2E06ED26CD2F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>name</key>
-			<string>Podfile</string>
-			<key>path</key>
-			<string>../Podfile</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-			<key>xcLanguageSpecificationIdentifier</key>
-			<string>xcode.lang.ruby</string>
-		</dict>
-		<key>BBACFB63464BBBA00A52E1339A309C9B</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>name</key>
-			<string>TYAttributedLabel</string>
-			<key>target</key>
-			<string>921D55E6DAFC72B4851ADA7BCF550A87</string>
-			<key>targetProxy</key>
-			<string>DB9585AFE9CF3F3AE5A6417051E74550</string>
-		</dict>
-		<key>BD94D382277E392AC63E61BE6BAF9BC2</key>
-		<dict>
-			<key>fileRef</key>
-			<string>8ABB4C4310CB15954343D17A91978269</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>BF962FC68B879432BEFA4B8D5E2F7820</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>D41D8CD98F00B204E9800998ECF8427E</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>E1B593754900BED869BB0009D7E4AEC1</string>
-			<key>remoteInfo</key>
-			<string>BTLabel</string>
-		</dict>
-		<key>C186DCB603FC44D692733165F80A682E</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>7188984E7CB9745B598B6BBF4D6793D5</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/KxMenu/KxMenu-prefix.pch</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>9.3</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PRIVATE_HEADERS_FOLDER_PATH</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string></string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>C3B7BDF5CE5CB8F095FE12DA55D9A9BB</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>UIKit.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/UIKit.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>C665FA437EBA2D56180D2D3E1144FD89</key>
-		<dict>
-			<key>fileRef</key>
-			<string>A1CB0DF078782ADB6B31283B4B3C0A77</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>C86A659F216D33EE3FD49548022EC1BC</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>WeiboSDK+Statistics.h</string>
-			<key>path</key>
-			<string>libWeiboSDK/WeiboSDK+Statistics.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C88FAF3B4D73847D7B4CE1B8090C578E</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>E31C1A29A033CFD18BF31CA359C9CA56</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>D0C9CB3B74110F1EDE3C9CF51689E5AB</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>WBHttpRequest.h</string>
-			<key>path</key>
-			<string>libWeiboSDK/WBHttpRequest.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D210E7F6B3CEF11A57C733E40FFED00A</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>TYTextContainer.m</string>
-			<key>path</key>
-			<string>TYAttributedLabelDemo/TYAttributedLabel/TYTextContainer.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D41D8CD98F00B204E9800998ECF8427E</key>
-		<dict>
-			<key>attributes</key>
-			<dict>
-				<key>LastSwiftUpdateCheck</key>
-				<string>0700</string>
-				<key>LastUpgradeCheck</key>
-				<string>0700</string>
-			</dict>
-			<key>buildConfigurationList</key>
-			<string>2D8E8EC45A3A1A1D94AE762CB5028504</string>
-			<key>compatibilityVersion</key>
-			<string>Xcode 3.2</string>
-			<key>developmentRegion</key>
-			<string>English</string>
-			<key>hasScannedForEncodings</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXProject</string>
-			<key>knownRegions</key>
-			<array>
-				<string>en</string>
-			</array>
-			<key>mainGroup</key>
-			<string>7DB346D0F39D3F0E887471402A8071AB</string>
-			<key>productRefGroup</key>
-			<string>FA8337C2A835DAE2296F1CD6965ED3BE</string>
-			<key>projectDirPath</key>
-			<string></string>
-			<key>projectReferences</key>
-			<array/>
-			<key>projectRoot</key>
-			<string></string>
-			<key>targets</key>
-			<array>
-				<string>E1B593754900BED869BB0009D7E4AEC1</string>
-				<string>8F06F49D64E04DCD9683D916034330CE</string>
-				<string>54C0D8D70FA87009102BD7B34A82F7F7</string>
-				<string>921D55E6DAFC72B4851ADA7BCF550A87</string>
-			</array>
-		</dict>
-		<key>D4AE720F9DD034D598C758357A2C4F33</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>095C1C4086ABEE6A460991B469248011</string>
-				<string>75044250606A7860AE701BF7D8A426A8</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>D6784171FD19C3AD45B113BD611AA3D0</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>TYAttributedLabel-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D68D4C2AA48DFB470A20C466CA2D1143</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>WBHttpRequest+WeiboGame.h</string>
-			<key>path</key>
-			<string>libWeiboSDK/WBHttpRequest+WeiboGame.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D7311B84F8746D4EA70071352BCEE2AC</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>792FF86A270A9B7D9C859D8E1AA517E8</string>
-				<string>A1CB0DF078782ADB6B31283B4B3C0A77</string>
-				<string>78C6EF97B2631A4C4795B9ACF5AD2B11</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Support Files</string>
-			<key>path</key>
-			<string>../Target Support Files/BTLabel</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D8ECAFB458FDB79B81527493C9DA484D</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>2033A1B5E12607A69FFF6B18FF5CFB50</string>
-				<string>1EDC94925BDD3B8F6C7F5CA947FA6DC1</string>
-				<string>018DA724C636DCB6720E4300F7B827BE</string>
-				<string>B50B098ACA1226707F6C781AE6B64163</string>
-				<string>8ABB4C4310CB15954343D17A91978269</string>
-				<string>17093F64B285A7843B00FD96BFB3A7C5</string>
-				<string>FE5B6F101BAA03BFA7C9005367C399DC</string>
-				<string>53ADE6BC148536B7AD9B1BB354B577B9</string>
-				<string>E0D6F87FDA862C5A4C41285598855B07</string>
-				<string>7019D960AC441EF4DDEC7C68395CF843</string>
-				<string>DF1B924C26C264409E59093BF36BBD67</string>
-				<string>2794118915762EA69F1EFE9F0B404D5D</string>
-				<string>44A5C9FF84168786A06B968E2DABC4EA</string>
-				<string>D210E7F6B3CEF11A57C733E40FFED00A</string>
-				<string>0F6452F543BD73ED792B697FAD7672A0</string>
-				<string>A3E8666341F154DD8FD3CD016B5179BF</string>
-				<string>FD00B98785976D2CF4C3128F2AF16F7E</string>
-				<string>A42768388B61B834244A1126E35A0467</string>
-				<string>326218A1FAB4E8C12BA3CBDA9BCC17AC</string>
-				<string>69CB1A7EA136EC388C0A52B84B9E3D09</string>
-				<string>273514ADA1278A9FA89261245D4B05A0</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>TYAttributedLabel</string>
-			<key>path</key>
-			<string>TYAttributedLabel</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D8F649542846968261F595E52FBA0DDE</key>
-		<dict>
-			<key>fileRef</key>
-			<string>69CB1A7EA136EC388C0A52B84B9E3D09</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>DB9585AFE9CF3F3AE5A6417051E74550</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>D41D8CD98F00B204E9800998ECF8427E</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>921D55E6DAFC72B4851ADA7BCF550A87</string>
-			<key>remoteInfo</key>
-			<string>TYAttributedLabel</string>
-		</dict>
-		<key>DF1B924C26C264409E59093BF36BBD67</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>TYLinkTextStorage.h</string>
-			<key>path</key>
-			<string>TYAttributedLabelDemo/TYAttributedLabel/TYLinkTextStorage.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E0D6F87FDA862C5A4C41285598855B07</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>TYImageStorage.h</string>
-			<key>path</key>
-			<string>TYAttributedLabelDemo/TYAttributedLabel/TYImageStorage.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E1B593754900BED869BB0009D7E4AEC1</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>D4AE720F9DD034D598C758357A2C4F33</string>
-			<key>buildPhases</key>
-			<array>
-				<string>3D5964AA004AC9421277AEA8EDD50345</string>
-				<string>0381B998292438AD2722BA5E3C10258A</string>
-				<string>7494C3ED8D150A8E23A8EED319E5C90F</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>BTLabel</string>
-			<key>productName</key>
-			<string>BTLabel</string>
-			<key>productReference</key>
-			<string>A74D7AD9998E460051251F259B47EE96</string>
-			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
-		</dict>
-		<key>E31C1A29A033CFD18BF31CA359C9CA56</key>
-		<dict>
-			<key>fileRef</key>
-			<string>AFDC74A3286FD12F10BF58519DCA0B2F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>E3E793DC7CC5F491A2C76B19E6088F42</key>
-		<dict>
-			<key>fileRef</key>
-			<string>17093F64B285A7843B00FD96BFB3A7C5</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>E45798CE71C47FECB3B4E81F3B3F5461</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6E7E5AF37923BFA48D6994B9BFC6535F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>E5031F187BB13D78B1CCB37431604691</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>WeiboUser.h</string>
-			<key>path</key>
-			<string>libWeiboSDK/WeiboUser.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E783A9F13F1FA6F62BF189BF16842798</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>4E762F23EC34ED4A6FF3312D84E33A40</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>9.3</string>
-				<key>MACH_O_TYPE</key>
-				<string>staticlib</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>EA98D7DBC6506769577CE9053963E317</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>F51C224B5C7C08BDE9B1C75843C75021</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/TYAttributedLabel/TYAttributedLabel-prefix.pch</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>9.3</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PRIVATE_HEADERS_FOLDER_PATH</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string></string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>EFB27A4426E253BB58EE2F9843254985</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>4D00595C344F27C8E18FA091A8B1DD6D</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>F49CDBB7B65212E0F85A71050F34C8D8</key>
-		<dict>
-			<key>fileRef</key>
-			<string>FE5B6F101BAA03BFA7C9005367C399DC</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>F51C224B5C7C08BDE9B1C75843C75021</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>TYAttributedLabel.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F5394FDF71D11AB29F88799129EBA611</key>
-		<dict>
-			<key>fileRef</key>
-			<string>018DA724C636DCB6720E4300F7B827BE</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>F723195F4A9283DFB4F1542711C59F83</key>
-		<dict>
-			<key>fileRef</key>
-			<string>40DF182B253A2F0D57948764D11DC05F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>F99787F8FC1377C508CC4B4999757824</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>archive.ar</string>
-			<key>name</key>
-			<string>libWeiboSDK.a</string>
-			<key>path</key>
-			<string>libWeiboSDK/libWeiboSDK.a</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>FA8337C2A835DAE2296F1CD6965ED3BE</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>A74D7AD9998E460051251F259B47EE96</string>
-				<string>81D5352EF661971D7D1BDEDE66555AFD</string>
-				<string>9C1B1953A214510798A6716155FC2BB5</string>
-				<string>00120535C68C2F282B33C2E3BEAF562B</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Products</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>FBD00608C8BA248542BC8E36007869F1</key>
-		<dict>
-			<key>fileRef</key>
-			<string>B50B098ACA1226707F6C781AE6B64163</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>FD00B98785976D2CF4C3128F2AF16F7E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>TYTextStorage.m</string>
-			<key>path</key>
-			<string>TYAttributedLabelDemo/TYAttributedLabel/TYTextStorage.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>FE5B6F101BAA03BFA7C9005367C399DC</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>TYImageCache.h</string>
-			<key>path</key>
-			<string>TYAttributedLabelDemo/TYAttributedLabel/TYImageCache.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>FFFE1412815492222C5374B29E5E0DD4</key>
-		<dict>
-			<key>fileRef</key>
-			<string>DF1B924C26C264409E59093BF36BBD67</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-	</dict>
-	<key>rootObject</key>
-	<string>D41D8CD98F00B204E9800998ECF8427E</string>
-</dict>
-</plist>
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0677C2D779941F30BD85C903FDB7B069 /* NSMutableAttributedString+TY.m in Sources */ = {isa = PBXBuildFile; fileRef = 5561943800BBE8D1494879EE581B1B75 /* NSMutableAttributedString+TY.m */; };
+		0774A06705AE25683434E10FB013609F /* TYImageCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 8BAF0901AB2A2AAA52BBF7C834BD4EDB /* TYImageCache.m */; };
+		0B30FBB3489FEB1A5B5D79B0B76932E7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A2A6FF208CEC4C2861F1E9D42D651453 /* Foundation.framework */; };
+		1B7B049B779CB5FB9E6C29D088588109 /* TYDrawStorage.m in Sources */ = {isa = PBXBuildFile; fileRef = 084B245968A499EDFCB3EA1935408CDF /* TYDrawStorage.m */; };
+		353CCA07BEA3B8A6C3D538547F0812CF /* TYViewStorage.h in Headers */ = {isa = PBXBuildFile; fileRef = BA60870773FC9FC15F34D2434E97C193 /* TYViewStorage.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		36704D7C8B675D8A9A3CF9E61BB895A3 /* TYTextStorage.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AF30B14A4F86978705967C26C564B29 /* TYTextStorage.m */; };
+		3F9EFD555ED2D9EF50C85B6BFF2249C3 /* Pods-myselfWeiboDemo-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 09E51CB1C9AAD494D72345644966BB33 /* Pods-myselfWeiboDemo-dummy.m */; };
+		4AD3F7C1F05E00F64198EE2F2D3643CB /* TYAttributedLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 78DDD8F1C877A8105559C63185870062 /* TYAttributedLabel.m */; };
+		4B2F3E510894FCA1D5EBBF9737D2A6E5 /* KxMenu.h in Headers */ = {isa = PBXBuildFile; fileRef = D4BA76CF3B2E3BD1E85BB7203E1C7A4F /* KxMenu.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4B6AA672FAB9EF0E20F5E148B2DB0FF4 /* Pods-myselfWeiboDemo-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B76AFF313BD879162BF1F8FD2D44DF99 /* Pods-myselfWeiboDemo-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5CFFEFC8472E78603D4398BE6402A8ED /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A2A6FF208CEC4C2861F1E9D42D651453 /* Foundation.framework */; };
+		6B3FE365A36C8E99773FAE6823DDF60F /* NSMutableAttributedString+TY.h in Headers */ = {isa = PBXBuildFile; fileRef = 558C0401D003B93B7D74D30980D50D55 /* NSMutableAttributedString+TY.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6B98528840D49BDD97D63668C9DC18DF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A2A6FF208CEC4C2861F1E9D42D651453 /* Foundation.framework */; };
+		7E06A3DB210B1D41533B1D5C8690AF5F /* TYTextContainer.m in Sources */ = {isa = PBXBuildFile; fileRef = E91F81C15177E14E7368A55D306C5F99 /* TYTextContainer.m */; };
+		872475EA7F3485B9CAF8E16B2170165C /* TYImageStorage.h in Headers */ = {isa = PBXBuildFile; fileRef = 6004362384A62F71EEA90511F645673C /* TYImageStorage.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8A4EE591D559841568C08B68B77B0981 /* TYViewStorage.m in Sources */ = {isa = PBXBuildFile; fileRef = 602875CA03BACA233C421D9F00917CF6 /* TYViewStorage.m */; };
+		8D7511EE5528109A771DB3EDA4B0678F /* TYLinkTextStorage.h in Headers */ = {isa = PBXBuildFile; fileRef = FA02743F2543D632A3D75FB4C4BC78A9 /* TYLinkTextStorage.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		90F85563529A161DB3535C22A1F911E9 /* TYLinkTextStorage.m in Sources */ = {isa = PBXBuildFile; fileRef = 11072506B5B438F43191178E53EED488 /* TYLinkTextStorage.m */; };
+		93C3BFA747DFDB3E0012E1AD0A4724A6 /* KxMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 457BBB395945DE2E68315945A7A82E31 /* KxMenu.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		980E4E241C6F778B532EB0F0DF0A5106 /* TYTextContainer+Extended.m in Sources */ = {isa = PBXBuildFile; fileRef = E93BC3EECBFC2FADEEFDF06ABFB87486 /* TYTextContainer+Extended.m */; };
+		9D7C72C5B9276865DC3FB52B52B8D3C5 /* TYAttributedLabel-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D032A73D1777E3E9FFEA5BADD9166D3C /* TYAttributedLabel-dummy.m */; };
+		9F0E76686498F0328029C988DCDFBC26 /* TYImageStorage.m in Sources */ = {isa = PBXBuildFile; fileRef = 88CC5EA05EAC2F67A50D6EBEF0C6C63B /* TYImageStorage.m */; };
+		A08B0D58B710F9206EBC7CC860194353 /* BTLabel.h in Headers */ = {isa = PBXBuildFile; fileRef = EAB906202044A614C2083CDDB8AC668F /* BTLabel.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A5924C45F902E07DF1F8154905585302 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A2A6FF208CEC4C2861F1E9D42D651453 /* Foundation.framework */; };
+		AF1AD788C8AA7ADD31637E851902978F /* TYImageCache.h in Headers */ = {isa = PBXBuildFile; fileRef = D049361A8BBACE182873346335152087 /* TYImageCache.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B74121ADE1C87639BA2B11BE1185CAEC /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E86668F20F252C440D1015B816BE59C5 /* UIKit.framework */; };
+		C2E64C231BA747A185608B440C9DD7CA /* TYDrawStorage.h in Headers */ = {isa = PBXBuildFile; fileRef = 41EBD2FE0FE3C28E001D8BB242A6F528 /* TYDrawStorage.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C7C2772AE4C566098E849CD791C5A10D /* KxMenu-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = BF41C748BEC1322DD58FC8B5058ACB1C /* KxMenu-dummy.m */; };
+		CA74C11C9D67367C281ABBB8B466A5DF /* BTLabel-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = CC05B15CAA1B64BDA1ECFF7295137A78 /* BTLabel-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CCEA87FEA7E08E51CEF412327A144276 /* TYAttributedLabel-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C9FA018456BADA93E08E1F821CB1FA20 /* TYAttributedLabel-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CD223AABF0D85CAC0732E2374778142A /* TYTextContainer.h in Headers */ = {isa = PBXBuildFile; fileRef = 7287DA51481576B150C05E8D9469EC3B /* TYTextContainer.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CDF6086EFFE4A9FD079EF9468C8853EF /* KxMenu-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B5CAE7B291287444D7C1EFB22ADDC9CF /* KxMenu-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DB4837B25F272A078B113B7A4C1AA166 /* TYTextStorage.h in Headers */ = {isa = PBXBuildFile; fileRef = 5FB51B3FB7A7E5B10B22A8FAB57F1994 /* TYTextStorage.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DD2B149FDA875A050DEB88065449754D /* BTLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = F1993833DA37BBED4CFD8AEB4F8D0073 /* BTLabel.m */; };
+		EBACC654BA66D474369890DB8D834DA1 /* TYTextStorageProtocol.h in Headers */ = {isa = PBXBuildFile; fileRef = 0928E6474E72E74FEC72FDCF1E98B7A0 /* TYTextStorageProtocol.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EE5584C14F61B5095861E481E2D46287 /* BTLabel-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C8A1452723A4BAB7303AB2A1E19FE4ED /* BTLabel-dummy.m */; };
+		FE4AC917B22E81A391591E63ABAD578A /* TYAttributedLabel.h in Headers */ = {isa = PBXBuildFile; fileRef = A7DF4EA19FAC297019DC3D5B6653A04C /* TYAttributedLabel.h */; settings = {ATTRIBUTES = (Public, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		141395BF6C7BAC84E97F6E3F8BBC6C3B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 31B179C1593813E105A7CF644224551D;
+			remoteInfo = TYAttributedLabel;
+		};
+		D762B5E5D1DBB7457DB63DF598257629 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 845102AB81B201CB1C0BA07364A8B4AD;
+			remoteInfo = BTLabel;
+		};
+		D8794624D31379391BD59CB4FB8E87ED /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6820846829ED020BAD5FAE69FEDDC861;
+			remoteInfo = KxMenu;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		02E59FBC4FF2408EE0DBFFD4AF36846F /* KxMenu.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = KxMenu.modulemap; sourceTree = "<group>"; };
+		05FEED9034E9EB35F20560DCCFB1C56A /* WBSDKRelationshipButton.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WBSDKRelationshipButton.h; path = libWeiboSDK/WBSDKRelationshipButton.h; sourceTree = "<group>"; };
+		084B245968A499EDFCB3EA1935408CDF /* TYDrawStorage.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TYDrawStorage.m; path = TYAttributedLabelDemo/TYAttributedLabel/TYDrawStorage.m; sourceTree = "<group>"; };
+		0928E6474E72E74FEC72FDCF1E98B7A0 /* TYTextStorageProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TYTextStorageProtocol.h; path = TYAttributedLabelDemo/TYAttributedLabel/TYTextStorageProtocol.h; sourceTree = "<group>"; };
+		09E51CB1C9AAD494D72345644966BB33 /* Pods-myselfWeiboDemo-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-myselfWeiboDemo-dummy.m"; sourceTree = "<group>"; };
+		0ECA851E5DB7695AB1CFCB52C3C76EF7 /* KxMenu.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = KxMenu.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		11072506B5B438F43191178E53EED488 /* TYLinkTextStorage.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TYLinkTextStorage.m; path = TYAttributedLabelDemo/TYAttributedLabel/TYLinkTextStorage.m; sourceTree = "<group>"; };
+		115633669239BE02F1AAE4BBBDE66C3C /* TYAttributedLabel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TYAttributedLabel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		15A222FEA637704E5C888C229FAEE0FB /* WBSDKBasicButton.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WBSDKBasicButton.h; path = libWeiboSDK/WBSDKBasicButton.h; sourceTree = "<group>"; };
+		1AA6A4F63611439A18BC5AE9BE978637 /* WeiboSDK.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = WeiboSDK.bundle; path = libWeiboSDK/WeiboSDK.bundle; sourceTree = "<group>"; };
+		209348DD11A417F7A907ED79BC026590 /* Pods-myselfWeiboDemo-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-myselfWeiboDemo-frameworks.sh"; sourceTree = "<group>"; };
+		3091C50B2D6783320368F57B6AAE671F /* Pods-myselfWeiboDemo-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-myselfWeiboDemo-acknowledgements.plist"; sourceTree = "<group>"; };
+		31C83A8D4C720FE6FDA03F1A3A52A77B /* KxMenu-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "KxMenu-prefix.pch"; sourceTree = "<group>"; };
+		31DB7425EEB27831DEAED7EE015E0CF6 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3345291E6821936ADE6A95A2A09482EE /* Pods-myselfWeiboDemo-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-myselfWeiboDemo-acknowledgements.markdown"; sourceTree = "<group>"; };
+		34A028D07D2A0B6E1843A728F5B15AC3 /* TYAttributedLabel-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TYAttributedLabel-prefix.pch"; sourceTree = "<group>"; };
+		3BFCEF41E7D5E5CF2497470553DD0310 /* Pods-myselfWeiboDemo-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-myselfWeiboDemo-resources.sh"; sourceTree = "<group>"; };
+		41EBD2FE0FE3C28E001D8BB242A6F528 /* TYDrawStorage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TYDrawStorage.h; path = TYAttributedLabelDemo/TYAttributedLabel/TYDrawStorage.h; sourceTree = "<group>"; };
+		44303DEE71D07FB3C10AA0A76141DBDB /* Pods-myselfWeiboDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-myselfWeiboDemo.debug.xcconfig"; sourceTree = "<group>"; };
+		457BBB395945DE2E68315945A7A82E31 /* KxMenu.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KxMenu.m; path = Source/KxMenu.m; sourceTree = "<group>"; };
+		5561943800BBE8D1494879EE581B1B75 /* NSMutableAttributedString+TY.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSMutableAttributedString+TY.m"; path = "TYAttributedLabelDemo/TYAttributedLabel/NSMutableAttributedString+TY.m"; sourceTree = "<group>"; };
+		558C0401D003B93B7D74D30980D50D55 /* NSMutableAttributedString+TY.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSMutableAttributedString+TY.h"; path = "TYAttributedLabelDemo/TYAttributedLabel/NSMutableAttributedString+TY.h"; sourceTree = "<group>"; };
+		5768F7DE3EAD01F48532E3081DC7D92B /* WBHttpRequest+WeiboToken.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "WBHttpRequest+WeiboToken.h"; path = "libWeiboSDK/WBHttpRequest+WeiboToken.h"; sourceTree = "<group>"; };
+		5E44B861BB07BE296FCD3019A3ED1155 /* WBHttpRequest+WeiboUser.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "WBHttpRequest+WeiboUser.h"; path = "libWeiboSDK/WBHttpRequest+WeiboUser.h"; sourceTree = "<group>"; };
+		5FB51B3FB7A7E5B10B22A8FAB57F1994 /* TYTextStorage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TYTextStorage.h; path = TYAttributedLabelDemo/TYAttributedLabel/TYTextStorage.h; sourceTree = "<group>"; };
+		6004362384A62F71EEA90511F645673C /* TYImageStorage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TYImageStorage.h; path = TYAttributedLabelDemo/TYAttributedLabel/TYImageStorage.h; sourceTree = "<group>"; };
+		602875CA03BACA233C421D9F00917CF6 /* TYViewStorage.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TYViewStorage.m; path = TYAttributedLabelDemo/TYAttributedLabel/TYViewStorage.m; sourceTree = "<group>"; };
+		6A3D8898584843BE93B7EAE76F652B63 /* BTLabel-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "BTLabel-prefix.pch"; sourceTree = "<group>"; };
+		6EAF97EDB77EDB617645F2F44ECFB234 /* WBSDKCommentButton.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WBSDKCommentButton.h; path = libWeiboSDK/WBSDKCommentButton.h; sourceTree = "<group>"; };
+		7287DA51481576B150C05E8D9469EC3B /* TYTextContainer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TYTextContainer.h; path = TYAttributedLabelDemo/TYAttributedLabel/TYTextContainer.h; sourceTree = "<group>"; };
+		78DDD8F1C877A8105559C63185870062 /* TYAttributedLabel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TYAttributedLabel.m; path = TYAttributedLabelDemo/TYAttributedLabel/TYAttributedLabel.m; sourceTree = "<group>"; };
+		88CC5EA05EAC2F67A50D6EBEF0C6C63B /* TYImageStorage.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TYImageStorage.m; path = TYAttributedLabelDemo/TYAttributedLabel/TYImageStorage.m; sourceTree = "<group>"; };
+		8BAF0901AB2A2AAA52BBF7C834BD4EDB /* TYImageCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TYImageCache.m; path = TYAttributedLabelDemo/TYAttributedLabel/TYImageCache.m; sourceTree = "<group>"; };
+		8E2C4AF8D7BCC49A37EF103B95A9A8D7 /* BTLabel.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = BTLabel.xcconfig; sourceTree = "<group>"; };
+		91E2ECC1A03D04B0543BCD5EF84A69CE /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		932E3F4BB36E2B34570356B9A0742965 /* Pods-myselfWeiboDemo.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-myselfWeiboDemo.modulemap"; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9A4BA5E387FDA794B80CFEB012132983 /* TYAttributedLabel.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TYAttributedLabel.xcconfig; sourceTree = "<group>"; };
+		9AF30B14A4F86978705967C26C564B29 /* TYTextStorage.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TYTextStorage.m; path = TYAttributedLabelDemo/TYAttributedLabel/TYTextStorage.m; sourceTree = "<group>"; };
+		9C1319F38E337B5D534EFFE1C3D91B71 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A09260B2E8FD04E9E19E3F59F647120F /* WeiboSDK.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WeiboSDK.h; path = libWeiboSDK/WeiboSDK.h; sourceTree = "<group>"; };
+		A2A6FF208CEC4C2861F1E9D42D651453 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		A7DF4EA19FAC297019DC3D5B6653A04C /* TYAttributedLabel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TYAttributedLabel.h; path = TYAttributedLabelDemo/TYAttributedLabel/TYAttributedLabel.h; sourceTree = "<group>"; };
+		A9ECEB2E3A92861D77BC9EEF11E09303 /* Pods-myselfWeiboDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-myselfWeiboDemo.release.xcconfig"; sourceTree = "<group>"; };
+		ABA4FE0526205CF442C48BC8B80B9804 /* WBHttpRequest+WeiboShare.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "WBHttpRequest+WeiboShare.h"; path = "libWeiboSDK/WBHttpRequest+WeiboShare.h"; sourceTree = "<group>"; };
+		AD0B062B9D84E88E62942C627E7D2AF5 /* BTLabel.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = BTLabel.modulemap; sourceTree = "<group>"; };
+		B5CAE7B291287444D7C1EFB22ADDC9CF /* KxMenu-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "KxMenu-umbrella.h"; sourceTree = "<group>"; };
+		B76AFF313BD879162BF1F8FD2D44DF99 /* Pods-myselfWeiboDemo-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-myselfWeiboDemo-umbrella.h"; sourceTree = "<group>"; };
+		BA60870773FC9FC15F34D2434E97C193 /* TYViewStorage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TYViewStorage.h; path = TYAttributedLabelDemo/TYAttributedLabel/TYViewStorage.h; sourceTree = "<group>"; };
+		BF41C748BEC1322DD58FC8B5058ACB1C /* KxMenu-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "KxMenu-dummy.m"; sourceTree = "<group>"; };
+		C86A659F216D33EE3FD49548022EC1BC /* WeiboSDK+Statistics.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "WeiboSDK+Statistics.h"; path = "libWeiboSDK/WeiboSDK+Statistics.h"; sourceTree = "<group>"; };
+		C8A1452723A4BAB7303AB2A1E19FE4ED /* BTLabel-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "BTLabel-dummy.m"; sourceTree = "<group>"; };
+		C9FA018456BADA93E08E1F821CB1FA20 /* TYAttributedLabel-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TYAttributedLabel-umbrella.h"; sourceTree = "<group>"; };
+		CC05B15CAA1B64BDA1ECFF7295137A78 /* BTLabel-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "BTLabel-umbrella.h"; sourceTree = "<group>"; };
+		CC14C7390190EF5B2D97F5A7F97FF7E7 /* TYAttributedLabel.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = TYAttributedLabel.modulemap; sourceTree = "<group>"; };
+		D032A73D1777E3E9FFEA5BADD9166D3C /* TYAttributedLabel-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "TYAttributedLabel-dummy.m"; sourceTree = "<group>"; };
+		D049361A8BBACE182873346335152087 /* TYImageCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TYImageCache.h; path = TYAttributedLabelDemo/TYAttributedLabel/TYImageCache.h; sourceTree = "<group>"; };
+		D0C9CB3B74110F1EDE3C9CF51689E5AB /* WBHttpRequest.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WBHttpRequest.h; path = libWeiboSDK/WBHttpRequest.h; sourceTree = "<group>"; };
+		D4BA76CF3B2E3BD1E85BB7203E1C7A4F /* KxMenu.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KxMenu.h; path = Source/KxMenu.h; sourceTree = "<group>"; };
+		D68D4C2AA48DFB470A20C466CA2D1143 /* WBHttpRequest+WeiboGame.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "WBHttpRequest+WeiboGame.h"; path = "libWeiboSDK/WBHttpRequest+WeiboGame.h"; sourceTree = "<group>"; };
+		E2092E21C0E53780A7113B9207D3FD4D /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E5031F187BB13D78B1CCB37431604691 /* WeiboUser.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WeiboUser.h; path = libWeiboSDK/WeiboUser.h; sourceTree = "<group>"; };
+		E86668F20F252C440D1015B816BE59C5 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
+		E91F81C15177E14E7368A55D306C5F99 /* TYTextContainer.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TYTextContainer.m; path = TYAttributedLabelDemo/TYAttributedLabel/TYTextContainer.m; sourceTree = "<group>"; };
+		E93BC3EECBFC2FADEEFDF06ABFB87486 /* TYTextContainer+Extended.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "TYTextContainer+Extended.m"; path = "TYAttributedLabelDemo/TYAttributedLabel/TYTextContainer+Extended.m"; sourceTree = "<group>"; };
+		EAB906202044A614C2083CDDB8AC668F /* BTLabel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BTLabel.h; path = Pod/Classes/BTLabel.h; sourceTree = "<group>"; };
+		EB49267ACCBEE785F276237E923F4146 /* KxMenu.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = KxMenu.xcconfig; sourceTree = "<group>"; };
+		F1993833DA37BBED4CFD8AEB4F8D0073 /* BTLabel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = BTLabel.m; path = Pod/Classes/BTLabel.m; sourceTree = "<group>"; };
+		F2EE8FD8E95FD5E74F6E46393D7CBAFF /* Pods_myselfWeiboDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_myselfWeiboDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F99787F8FC1377C508CC4B4999757824 /* libWeiboSDK.a */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = archive.ar; name = libWeiboSDK.a; path = libWeiboSDK/libWeiboSDK.a; sourceTree = "<group>"; };
+		FA02743F2543D632A3D75FB4C4BC78A9 /* TYLinkTextStorage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TYLinkTextStorage.h; path = TYAttributedLabelDemo/TYAttributedLabel/TYLinkTextStorage.h; sourceTree = "<group>"; };
+		FF1BE7CFB41AD1A444751D1AA688E65D /* BTLabel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = BTLabel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		14AD1B489E5C0840B92833A27018E92D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5CFFEFC8472E78603D4398BE6402A8ED /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2CFF61C8B29C3D4D51D362E2E3FEBBAD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6B98528840D49BDD97D63668C9DC18DF /* Foundation.framework in Frameworks */,
+				B74121ADE1C87639BA2B11BE1185CAEC /* UIKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		903CD9A9AB0C90B2B5167E7BC2F9316F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0B30FBB3489FEB1A5B5D79B0B76932E7 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A525A45A5D0B227532640739A3E5337F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A5924C45F902E07DF1F8154905585302 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2135BD6178FC98F9AF09F3E35A211DB9 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				1AA6A4F63611439A18BC5AE9BE978637 /* WeiboSDK.bundle */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		433CD3331B6C3787F473C941B61FC68F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F302CD3B306AF1ED96B9AF31FCDBC26C /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		433E7D41642E85866471F3A7E63F2176 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				91E2ECC1A03D04B0543BCD5EF84A69CE /* Info.plist */,
+				02E59FBC4FF2408EE0DBFFD4AF36846F /* KxMenu.modulemap */,
+				EB49267ACCBEE785F276237E923F4146 /* KxMenu.xcconfig */,
+				BF41C748BEC1322DD58FC8B5058ACB1C /* KxMenu-dummy.m */,
+				31C83A8D4C720FE6FDA03F1A3A52A77B /* KxMenu-prefix.pch */,
+				B5CAE7B291287444D7C1EFB22ADDC9CF /* KxMenu-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/KxMenu";
+			sourceTree = "<group>";
+		};
+		5996FC3D6EDD7C5656C82F55DB08465D /* TYAttributedLabel */ = {
+			isa = PBXGroup;
+			children = (
+				558C0401D003B93B7D74D30980D50D55 /* NSMutableAttributedString+TY.h */,
+				5561943800BBE8D1494879EE581B1B75 /* NSMutableAttributedString+TY.m */,
+				A7DF4EA19FAC297019DC3D5B6653A04C /* TYAttributedLabel.h */,
+				78DDD8F1C877A8105559C63185870062 /* TYAttributedLabel.m */,
+				41EBD2FE0FE3C28E001D8BB242A6F528 /* TYDrawStorage.h */,
+				084B245968A499EDFCB3EA1935408CDF /* TYDrawStorage.m */,
+				D049361A8BBACE182873346335152087 /* TYImageCache.h */,
+				8BAF0901AB2A2AAA52BBF7C834BD4EDB /* TYImageCache.m */,
+				6004362384A62F71EEA90511F645673C /* TYImageStorage.h */,
+				88CC5EA05EAC2F67A50D6EBEF0C6C63B /* TYImageStorage.m */,
+				FA02743F2543D632A3D75FB4C4BC78A9 /* TYLinkTextStorage.h */,
+				11072506B5B438F43191178E53EED488 /* TYLinkTextStorage.m */,
+				7287DA51481576B150C05E8D9469EC3B /* TYTextContainer.h */,
+				E91F81C15177E14E7368A55D306C5F99 /* TYTextContainer.m */,
+				E93BC3EECBFC2FADEEFDF06ABFB87486 /* TYTextContainer+Extended.m */,
+				5FB51B3FB7A7E5B10B22A8FAB57F1994 /* TYTextStorage.h */,
+				9AF30B14A4F86978705967C26C564B29 /* TYTextStorage.m */,
+				0928E6474E72E74FEC72FDCF1E98B7A0 /* TYTextStorageProtocol.h */,
+				BA60870773FC9FC15F34D2434E97C193 /* TYViewStorage.h */,
+				602875CA03BACA233C421D9F00917CF6 /* TYViewStorage.m */,
+				D8BEDD4B29884DD2598A4AE7F5DC603E /* Support Files */,
+			);
+			path = TYAttributedLabel;
+			sourceTree = "<group>";
+		};
+		75EC807C16D9C1FE4B7D72B25709FE64 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				B7D10164A3246F5FE47DF59FAA13CE43 /* BTLabel */,
+				C19B668859A756393CCF067F7CDA2F67 /* KxMenu */,
+				5996FC3D6EDD7C5656C82F55DB08465D /* TYAttributedLabel */,
+				8FE8D907A6F5733FEB37C2C81931DE25 /* WeiboSDK */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
+				433CD3331B6C3787F473C941B61FC68F /* Frameworks */,
+				75EC807C16D9C1FE4B7D72B25709FE64 /* Pods */,
+				CE544F8615F8B161326FDA3A65454412 /* Products */,
+				9CA3393AA11641D8F4E45DBB7BF291C7 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		874495EBB783AA167E2EB61C302D1FAC /* Pods-myselfWeiboDemo */ = {
+			isa = PBXGroup;
+			children = (
+				9C1319F38E337B5D534EFFE1C3D91B71 /* Info.plist */,
+				932E3F4BB36E2B34570356B9A0742965 /* Pods-myselfWeiboDemo.modulemap */,
+				3345291E6821936ADE6A95A2A09482EE /* Pods-myselfWeiboDemo-acknowledgements.markdown */,
+				3091C50B2D6783320368F57B6AAE671F /* Pods-myselfWeiboDemo-acknowledgements.plist */,
+				09E51CB1C9AAD494D72345644966BB33 /* Pods-myselfWeiboDemo-dummy.m */,
+				209348DD11A417F7A907ED79BC026590 /* Pods-myselfWeiboDemo-frameworks.sh */,
+				3BFCEF41E7D5E5CF2497470553DD0310 /* Pods-myselfWeiboDemo-resources.sh */,
+				B76AFF313BD879162BF1F8FD2D44DF99 /* Pods-myselfWeiboDemo-umbrella.h */,
+				44303DEE71D07FB3C10AA0A76141DBDB /* Pods-myselfWeiboDemo.debug.xcconfig */,
+				A9ECEB2E3A92861D77BC9EEF11E09303 /* Pods-myselfWeiboDemo.release.xcconfig */,
+			);
+			name = "Pods-myselfWeiboDemo";
+			path = "Target Support Files/Pods-myselfWeiboDemo";
+			sourceTree = "<group>";
+		};
+		8FE8D907A6F5733FEB37C2C81931DE25 /* WeiboSDK */ = {
+			isa = PBXGroup;
+			children = (
+				D0C9CB3B74110F1EDE3C9CF51689E5AB /* WBHttpRequest.h */,
+				D68D4C2AA48DFB470A20C466CA2D1143 /* WBHttpRequest+WeiboGame.h */,
+				ABA4FE0526205CF442C48BC8B80B9804 /* WBHttpRequest+WeiboShare.h */,
+				5768F7DE3EAD01F48532E3081DC7D92B /* WBHttpRequest+WeiboToken.h */,
+				5E44B861BB07BE296FCD3019A3ED1155 /* WBHttpRequest+WeiboUser.h */,
+				15A222FEA637704E5C888C229FAEE0FB /* WBSDKBasicButton.h */,
+				6EAF97EDB77EDB617645F2F44ECFB234 /* WBSDKCommentButton.h */,
+				05FEED9034E9EB35F20560DCCFB1C56A /* WBSDKRelationshipButton.h */,
+				A09260B2E8FD04E9E19E3F59F647120F /* WeiboSDK.h */,
+				C86A659F216D33EE3FD49548022EC1BC /* WeiboSDK+Statistics.h */,
+				E5031F187BB13D78B1CCB37431604691 /* WeiboUser.h */,
+				AEC889FC5BF9296FB41FE192E8B42618 /* Frameworks */,
+				2135BD6178FC98F9AF09F3E35A211DB9 /* Resources */,
+			);
+			path = WeiboSDK;
+			sourceTree = "<group>";
+		};
+		9CA3393AA11641D8F4E45DBB7BF291C7 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				874495EBB783AA167E2EB61C302D1FAC /* Pods-myselfWeiboDemo */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		AC368FB8F7592607972C545322370457 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				AD0B062B9D84E88E62942C627E7D2AF5 /* BTLabel.modulemap */,
+				8E2C4AF8D7BCC49A37EF103B95A9A8D7 /* BTLabel.xcconfig */,
+				C8A1452723A4BAB7303AB2A1E19FE4ED /* BTLabel-dummy.m */,
+				6A3D8898584843BE93B7EAE76F652B63 /* BTLabel-prefix.pch */,
+				CC05B15CAA1B64BDA1ECFF7295137A78 /* BTLabel-umbrella.h */,
+				E2092E21C0E53780A7113B9207D3FD4D /* Info.plist */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/BTLabel";
+			sourceTree = "<group>";
+		};
+		AEC889FC5BF9296FB41FE192E8B42618 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F99787F8FC1377C508CC4B4999757824 /* libWeiboSDK.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		B7D10164A3246F5FE47DF59FAA13CE43 /* BTLabel */ = {
+			isa = PBXGroup;
+			children = (
+				EAB906202044A614C2083CDDB8AC668F /* BTLabel.h */,
+				F1993833DA37BBED4CFD8AEB4F8D0073 /* BTLabel.m */,
+				AC368FB8F7592607972C545322370457 /* Support Files */,
+			);
+			path = BTLabel;
+			sourceTree = "<group>";
+		};
+		C19B668859A756393CCF067F7CDA2F67 /* KxMenu */ = {
+			isa = PBXGroup;
+			children = (
+				D4BA76CF3B2E3BD1E85BB7203E1C7A4F /* KxMenu.h */,
+				457BBB395945DE2E68315945A7A82E31 /* KxMenu.m */,
+				433E7D41642E85866471F3A7E63F2176 /* Support Files */,
+			);
+			path = KxMenu;
+			sourceTree = "<group>";
+		};
+		CE544F8615F8B161326FDA3A65454412 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FF1BE7CFB41AD1A444751D1AA688E65D /* BTLabel.framework */,
+				0ECA851E5DB7695AB1CFCB52C3C76EF7 /* KxMenu.framework */,
+				F2EE8FD8E95FD5E74F6E46393D7CBAFF /* Pods_myselfWeiboDemo.framework */,
+				115633669239BE02F1AAE4BBBDE66C3C /* TYAttributedLabel.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D8BEDD4B29884DD2598A4AE7F5DC603E /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				31DB7425EEB27831DEAED7EE015E0CF6 /* Info.plist */,
+				CC14C7390190EF5B2D97F5A7F97FF7E7 /* TYAttributedLabel.modulemap */,
+				9A4BA5E387FDA794B80CFEB012132983 /* TYAttributedLabel.xcconfig */,
+				D032A73D1777E3E9FFEA5BADD9166D3C /* TYAttributedLabel-dummy.m */,
+				34A028D07D2A0B6E1843A728F5B15AC3 /* TYAttributedLabel-prefix.pch */,
+				C9FA018456BADA93E08E1F821CB1FA20 /* TYAttributedLabel-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/TYAttributedLabel";
+			sourceTree = "<group>";
+		};
+		F302CD3B306AF1ED96B9AF31FCDBC26C /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				A2A6FF208CEC4C2861F1E9D42D651453 /* Foundation.framework */,
+				E86668F20F252C440D1015B816BE59C5 /* UIKit.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		28677D1083A4C7B043CFB51AC1C67A18 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4B6AA672FAB9EF0E20F5E148B2DB0FF4 /* Pods-myselfWeiboDemo-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8D6FCF07862A01B3CE33C99A8E1F3E83 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CDF6086EFFE4A9FD079EF9468C8853EF /* KxMenu-umbrella.h in Headers */,
+				4B2F3E510894FCA1D5EBBF9737D2A6E5 /* KxMenu.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A840B985EFDBD8FB5F0DD8EE27BB334D /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CA74C11C9D67367C281ABBB8B466A5DF /* BTLabel-umbrella.h in Headers */,
+				A08B0D58B710F9206EBC7CC860194353 /* BTLabel.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C30865593A228D78700DB4D729FA3FD7 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6B3FE365A36C8E99773FAE6823DDF60F /* NSMutableAttributedString+TY.h in Headers */,
+				CCEA87FEA7E08E51CEF412327A144276 /* TYAttributedLabel-umbrella.h in Headers */,
+				FE4AC917B22E81A391591E63ABAD578A /* TYAttributedLabel.h in Headers */,
+				C2E64C231BA747A185608B440C9DD7CA /* TYDrawStorage.h in Headers */,
+				AF1AD788C8AA7ADD31637E851902978F /* TYImageCache.h in Headers */,
+				872475EA7F3485B9CAF8E16B2170165C /* TYImageStorage.h in Headers */,
+				8D7511EE5528109A771DB3EDA4B0678F /* TYLinkTextStorage.h in Headers */,
+				CD223AABF0D85CAC0732E2374778142A /* TYTextContainer.h in Headers */,
+				DB4837B25F272A078B113B7A4C1AA166 /* TYTextStorage.h in Headers */,
+				EBACC654BA66D474369890DB8D834DA1 /* TYTextStorageProtocol.h in Headers */,
+				353CCA07BEA3B8A6C3D538547F0812CF /* TYViewStorage.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		0C0A93140333D8E9076079C8333EE9FB /* Pods-myselfWeiboDemo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BF31EB761DE8E2A7A151B9EEC0FF3906 /* Build configuration list for PBXNativeTarget "Pods-myselfWeiboDemo" */;
+			buildPhases = (
+				B48A2B09B4B5E6D3CF2B2295B647DC63 /* Sources */,
+				14AD1B489E5C0840B92833A27018E92D /* Frameworks */,
+				28677D1083A4C7B043CFB51AC1C67A18 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A020ED52F253EBB6FD1D93C7002F2E0A /* PBXTargetDependency */,
+				AE50383059BBB65EF2794E478382E18B /* PBXTargetDependency */,
+				13E0D89DD31C23122586D622F328AF29 /* PBXTargetDependency */,
+			);
+			name = "Pods-myselfWeiboDemo";
+			productName = "Pods-myselfWeiboDemo";
+			productReference = F2EE8FD8E95FD5E74F6E46393D7CBAFF /* Pods_myselfWeiboDemo.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		31B179C1593813E105A7CF644224551D /* TYAttributedLabel */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 300B0B612F5408D79447C1A5F5CDB54B /* Build configuration list for PBXNativeTarget "TYAttributedLabel" */;
+			buildPhases = (
+				5CD26578819BDACE19174D47D5ABFBC1 /* Sources */,
+				A525A45A5D0B227532640739A3E5337F /* Frameworks */,
+				C30865593A228D78700DB4D729FA3FD7 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TYAttributedLabel;
+			productName = TYAttributedLabel;
+			productReference = 115633669239BE02F1AAE4BBBDE66C3C /* TYAttributedLabel.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		6820846829ED020BAD5FAE69FEDDC861 /* KxMenu */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BBC7CFEB5EE1A51262DCCAE6AA2193A8 /* Build configuration list for PBXNativeTarget "KxMenu" */;
+			buildPhases = (
+				261819E57C2B70CE5CA9B8E2AB0A38E3 /* Sources */,
+				2CFF61C8B29C3D4D51D362E2E3FEBBAD /* Frameworks */,
+				8D6FCF07862A01B3CE33C99A8E1F3E83 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = KxMenu;
+			productName = KxMenu;
+			productReference = 0ECA851E5DB7695AB1CFCB52C3C76EF7 /* KxMenu.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		845102AB81B201CB1C0BA07364A8B4AD /* BTLabel */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B8D681BB76813D0C5D62C0AE48872316 /* Build configuration list for PBXNativeTarget "BTLabel" */;
+			buildPhases = (
+				17ED51D1D11F5856752D73D70EB2832F /* Sources */,
+				903CD9A9AB0C90B2B5167E7BC2F9316F /* Frameworks */,
+				A840B985EFDBD8FB5F0DD8EE27BB334D /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BTLabel;
+			productName = BTLabel;
+			productReference = FF1BE7CFB41AD1A444751D1AA688E65D /* BTLabel.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0700;
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = CE544F8615F8B161326FDA3A65454412 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				845102AB81B201CB1C0BA07364A8B4AD /* BTLabel */,
+				6820846829ED020BAD5FAE69FEDDC861 /* KxMenu */,
+				0C0A93140333D8E9076079C8333EE9FB /* Pods-myselfWeiboDemo */,
+				31B179C1593813E105A7CF644224551D /* TYAttributedLabel */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		17ED51D1D11F5856752D73D70EB2832F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EE5584C14F61B5095861E481E2D46287 /* BTLabel-dummy.m in Sources */,
+				DD2B149FDA875A050DEB88065449754D /* BTLabel.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		261819E57C2B70CE5CA9B8E2AB0A38E3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C7C2772AE4C566098E849CD791C5A10D /* KxMenu-dummy.m in Sources */,
+				93C3BFA747DFDB3E0012E1AD0A4724A6 /* KxMenu.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5CD26578819BDACE19174D47D5ABFBC1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0677C2D779941F30BD85C903FDB7B069 /* NSMutableAttributedString+TY.m in Sources */,
+				9D7C72C5B9276865DC3FB52B52B8D3C5 /* TYAttributedLabel-dummy.m in Sources */,
+				4AD3F7C1F05E00F64198EE2F2D3643CB /* TYAttributedLabel.m in Sources */,
+				1B7B049B779CB5FB9E6C29D088588109 /* TYDrawStorage.m in Sources */,
+				0774A06705AE25683434E10FB013609F /* TYImageCache.m in Sources */,
+				9F0E76686498F0328029C988DCDFBC26 /* TYImageStorage.m in Sources */,
+				90F85563529A161DB3535C22A1F911E9 /* TYLinkTextStorage.m in Sources */,
+				980E4E241C6F778B532EB0F0DF0A5106 /* TYTextContainer+Extended.m in Sources */,
+				7E06A3DB210B1D41533B1D5C8690AF5F /* TYTextContainer.m in Sources */,
+				36704D7C8B675D8A9A3CF9E61BB895A3 /* TYTextStorage.m in Sources */,
+				8A4EE591D559841568C08B68B77B0981 /* TYViewStorage.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B48A2B09B4B5E6D3CF2B2295B647DC63 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3F9EFD555ED2D9EF50C85B6BFF2249C3 /* Pods-myselfWeiboDemo-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		13E0D89DD31C23122586D622F328AF29 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = TYAttributedLabel;
+			target = 31B179C1593813E105A7CF644224551D /* TYAttributedLabel */;
+			targetProxy = 141395BF6C7BAC84E97F6E3F8BBC6C3B /* PBXContainerItemProxy */;
+		};
+		A020ED52F253EBB6FD1D93C7002F2E0A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = BTLabel;
+			target = 845102AB81B201CB1C0BA07364A8B4AD /* BTLabel */;
+			targetProxy = D762B5E5D1DBB7457DB63DF598257629 /* PBXContainerItemProxy */;
+		};
+		AE50383059BBB65EF2794E478382E18B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = KxMenu;
+			target = 6820846829ED020BAD5FAE69FEDDC861 /* KxMenu */;
+			targetProxy = D8794624D31379391BD59CB4FB8E87ED /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		10754D0C06288E30570898E6B5114A96 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8E2C4AF8D7BCC49A37EF103B95A9A8D7 /* BTLabel.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/BTLabel/BTLabel-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/BTLabel/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/BTLabel/BTLabel.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = BTLabel;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		3BED98C4024E69B2C85BBF1CE792897E /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9A4BA5E387FDA794B80CFEB012132983 /* TYAttributedLabel.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/TYAttributedLabel/TYAttributedLabel-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/TYAttributedLabel/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/TYAttributedLabel/TYAttributedLabel.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = TYAttributedLabel;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		3FA451D268613890FA8A5A03801E11D5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		5E62115DE8C09934BF8D2FE5D15FED1E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				ONLY_ACTIVE_ARCH = YES;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		79449070678E1F3DA56F57951778EE3E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = EB49267ACCBEE785F276237E923F4146 /* KxMenu.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/KxMenu/KxMenu-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/KxMenu/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/KxMenu/KxMenu.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = KxMenu;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		9D26DC7C331C25076BEB16EE71BFDCEC /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = EB49267ACCBEE785F276237E923F4146 /* KxMenu.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/KxMenu/KxMenu-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/KxMenu/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/KxMenu/KxMenu.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = KxMenu;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		D064B8821FDBF01C4C4625798F767AAF /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A9ECEB2E3A92861D77BC9EEF11E09303 /* Pods-myselfWeiboDemo.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-myselfWeiboDemo/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-myselfWeiboDemo/Pods-myselfWeiboDemo.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_myselfWeiboDemo;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		E283943ED584225C8FB32A3F8370061A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8E2C4AF8D7BCC49A37EF103B95A9A8D7 /* BTLabel.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/BTLabel/BTLabel-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/BTLabel/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/BTLabel/BTLabel.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = BTLabel;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		E7E87EB243C3E9827E628409686CBFB2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9A4BA5E387FDA794B80CFEB012132983 /* TYAttributedLabel.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/TYAttributedLabel/TYAttributedLabel-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/TYAttributedLabel/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/TYAttributedLabel/TYAttributedLabel.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = TYAttributedLabel;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		ECFF2098E4EEE40204657C5D3E571813 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 44303DEE71D07FB3C10AA0A76141DBDB /* Pods-myselfWeiboDemo.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-myselfWeiboDemo/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-myselfWeiboDemo/Pods-myselfWeiboDemo.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_myselfWeiboDemo;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5E62115DE8C09934BF8D2FE5D15FED1E /* Debug */,
+				3FA451D268613890FA8A5A03801E11D5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		300B0B612F5408D79447C1A5F5CDB54B /* Build configuration list for PBXNativeTarget "TYAttributedLabel" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E7E87EB243C3E9827E628409686CBFB2 /* Debug */,
+				3BED98C4024E69B2C85BBF1CE792897E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B8D681BB76813D0C5D62C0AE48872316 /* Build configuration list for PBXNativeTarget "BTLabel" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E283943ED584225C8FB32A3F8370061A /* Debug */,
+				10754D0C06288E30570898E6B5114A96 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BBC7CFEB5EE1A51262DCCAE6AA2193A8 /* Build configuration list for PBXNativeTarget "KxMenu" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				79449070678E1F3DA56F57951778EE3E /* Debug */,
+				9D26DC7C331C25076BEB16EE71BFDCEC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BF31EB761DE8E2A7A151B9EEC0FF3906 /* Build configuration list for PBXNativeTarget "Pods-myselfWeiboDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ECFF2098E4EEE40204657C5D3E571813 /* Debug */,
+				D064B8821FDBF01C4C4625798F767AAF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+}
